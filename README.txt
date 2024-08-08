@@ -24,10 +24,10 @@ O objetivo principal é fornecer uma interface amigável para clientes realizare
 
 ## Referências
 
-1. **TWBS.** *Bootstrap: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first projects on the web.* Disponível em: [https://getbootstrap.com/](https://getbootstrap.com/). Acesso em: 08 ago. 2024.
+1. **TWBS.** *Bootstrap: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first projects on the web.* Disponível em: [https://getbootstrap.com/](https://getbootstrap.com/). Acesso em: 21 jul. 2024.
 
-2. **MOZILLA.** *MDN Web Docs: JavaScript.* Disponível em: [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript). Acesso em: 08 ago. 2024.
+2. **MOZILLA.** *MDN Web Docs: JavaScript.* Disponível em: [https://developer.mozilla.org/pt-BR/docs/Web/JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript). Acesso em: 22 jul. 2024.
 
-3. **W3C.** *HTML: Hypertext Markup Language.* Disponível em: [https://www.w3.org/TR/html52/](https://www.w3.org/TR/html52/). Acesso em: 08 ago. 2024.
+3. **W3C.** *HTML: Hypertext Markup Language.* Disponível em: [https://www.w3.org/TR/html52/](https://www.w3.org/TR/html52/).  Acesso em: 27 jul. 2024.
 
-4. **W3C.** *CSS: Cascading Style Sheets.* Disponível em: [https://www.w3.org/Style/CSS/](https://www.w3.org/Style/CSS/). Acesso em: 08 ago. 2024.
+4. **W3C.** *CSS: Cascading Style Sheets.* Disponível em: [https://www.w3.org/Style/CSS/](https://www.w3.org/Style/CSS/). Acesso em: 05 ago. 2024.
