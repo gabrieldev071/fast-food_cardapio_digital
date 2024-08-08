@@ -1,0 +1,150 @@
+/* Estilização Global */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Fundo claro */
+    color: #343a40; /* Texto escuro */
+    margin: 0;
+    padding: 0;
+}
+
+/* Cabeçalho */
+h1 {
+    color: #007bff; /* Azul Bootstrap */
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+/* Accordion */
+.accordion-button {
+    background-color: #007bff; /* Azul Bootstrap */
+    color: white;
+    font-weight: bold;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #0056b3; /* Azul mais escuro para o botão ativo */
+}
+
+.accordion-item {
+    border: 1px solid #007bff; /* Bordas azuis */
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+}
+
+.accordion-body {
+    padding: 1rem;
+    background-color: #f1f3f5; /* Fundo claro */
+}
+
+/* Checkbox e Labels */
+.form-check-label {
+    font-size: 1.1rem;
+    color: #343a40;
+}
+
+.form-check-input {
+    margin-right: 0.5rem;
+    transform: scale(1.2); /* Aumentar o tamanho do checkbox */
+}
+
+/* Carrinho de Compras */
+#cart {
+    border: 1px solid #343a40;
+    padding: 1rem;
+    border-radius: 0.25rem;
+    background-color: #ffffff; /* Fundo branco */
+}
+
+#cart .list-group-item {
+    font-size: 1.1rem;
+    color: #343a40;
+}
+
+/* Total do Pedido */
+#total {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+/* Botões */
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+    color: white;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+/* Modal */
+.modal-content {
+    border-radius: 0.25rem;
+    border: 1px solid #007bff;
+}
+
+.modal-header {
+    background-color: #007bff;
+    color: white;
+}
+
+.modal-title {
+    font-weight: bold;
+}
+
+.modal-body {
+    background-color: #f8f9fa;
+}
+
+.modal-footer .btn-secondary {
+    background-color: #6c757d;
+    border: none;
+    color: white;
+}
+
+.modal-footer .btn-secondary:hover {
+    background-color: #5a6268;
+}
+
+.modal-footer .btn-success {
+    background-color: #28a745;
+    border: none;
+    color: white;
+}
+
+.modal-footer .btn-success:hover {
+    background-color: #218838;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+    
+    .accordion-body {
+        padding: 0.75rem;
+    }
+
+    .form-check-label {
+        font-size: 1rem;
+    }
+
+    #cart .list-group-item {
+        font-size: 1rem;
+    }
+
+    #total {
+        font-size: 1.25rem;
+    }
+}
